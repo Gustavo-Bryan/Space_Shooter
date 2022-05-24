@@ -14,7 +14,7 @@
 
 ## Alterações realizadas por mim:
 
-* Ciração das telas: Inicial, Escolher Dificuldade e Game-Over;
-* Possibilidade de escolha da dificuldade do jogo (Fácil, Médio e Dificil);
+* Criação das telas: Inicial, Escolher Dificuldade e Game-Over;
+* Possibilidade de escolha da dificuldade do jogo (Fácil, Médio e Difícil);
 * Pontuação por destruição das naves inimigas;
 * Botão "Jogar Novamente";
