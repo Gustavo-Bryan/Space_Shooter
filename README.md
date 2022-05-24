@@ -7,10 +7,10 @@
 <img src="./imgs Read-me/Inicio-2.PNG" alt="Tela para escolher dificuldade do jogo"> <br/><br/>
 
 ### Tela do jogo
-<img src="./imgs Read-me/jogo.PNG" alt="Jogo"> <br/><br/>
+<img src="./imgs Read-me/Jogo.PNG" alt="Jogo"> <br/><br/>
 
 ### Tela de Game-Over
-<img src="./imgs Read-me/Game-over.PNG" alt="Tela Game-Over"> <br/><br/>
+<img src="./imgs Read-me/Game-Over.PNG" alt="Tela Game-Over"> <br/><br/>
 
 ## Alterações realizadas por mim:
 
